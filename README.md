@@ -8,10 +8,16 @@ Used Deep Q Learning and Gymnasium AI Library to train a model for precise lunar
 <br />
 <b>Sections</b>
 <br />
-Part 0 - Installing the required packages and importing the libraries. 
+Part 0 - Installing and importing the libraries. 
 <br />
-Part 1 - Building the AI. 
+Part 1 - Loading the model. 
 <br />
-Part 2 - Training the AI. 
+Part 2 - Loading the tokenizer. 
 <br />
-Part 3 - Visualizing the results. 
+Part 3 - Setting the training arguments. 
+<br />
+Part 4 - Creating the supervised Fine-Tuning trainer. 
+<br />
+Part 5 - Training the model.  
+<br />
+Part 6 - Chatting with the model.  
