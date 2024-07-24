@@ -19,5 +19,4 @@ Part 3 - Setting the training arguments.
 Part 4 - Creating the supervised Fine-Tuning trainer. 
 <br />
 Part 5 - Training the model.  
-<br />
 Part 6 - Chatting with the model.  
